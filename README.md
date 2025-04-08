@@ -31,3 +31,6 @@ prthon adaptation.py --sourcemodel your_pretrained_model_path --targetdatasets y
 
 # Domain adaptation for real-world datasets
 prthon adaptation_real.py --sourcemodel your_pretrained_model_path --targetdatasets your_target_dataset_name --targetdata your_target_dataset_path --category [chair,table]
+
+# Visual rendering
+To achieve the same visual formatting as in our paper, you may refer to https://github.com/CuiRuikai/Partial2Complete/tree/main/misc
