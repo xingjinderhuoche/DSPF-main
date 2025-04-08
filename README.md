@@ -19,11 +19,8 @@ sh install.sh
 
 # preparing the data
 1、 PCN dataset from https://drive.usercontent.google.com/download?id=1OvvRyx02-C_DkzYiJ5stpin0mnXydHQ7&amp;export=download
-
 2、 ModelNet dataset from https://github.com/azuki-miho/OptDE
-
 3、 3D-EPN dataset from https://github.com/CuiRuikai/Partial2Complete?tab=readme-ov-file#installation
-
 4、 ScanNet & MatterPort3D from https://github.com/azuki-miho/OptDE
 
 # pre-training
