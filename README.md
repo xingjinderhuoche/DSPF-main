@@ -14,8 +14,8 @@ tqdm
 timm==0.9.12
 scipy
 
-#download extension folder from baidudisk and put it under DSPF-main folder
-###
+#download extension folder from [baidudisk](https://pan.baidu.com/s/1epOHR0aeV4wLaNxwsmiwSQ) (kpen) and put it under DSPF-main folder
+
 
 # Install the C++ extension module
 sh install.sh
